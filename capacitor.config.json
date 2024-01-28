@@ -1,0 +1,8 @@
+{
+  "appId": "com.task",
+  "appName": "task",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
